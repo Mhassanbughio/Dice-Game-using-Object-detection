@@ -43,7 +43,7 @@ Model: 157 layers · 7.03M parameters · 15.8 GFLOPs.
 
 ![Game Over](assets/Ouput Image.png)
 
----
+---.
 
 ## Quick Start
 
