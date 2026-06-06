@@ -37,21 +37,11 @@ Model: 157 layers · 7.03M parameters · 15.8 GFLOPs.
 
 **Main scoring screen** — detects both dice and sums their values:
 
-![Gameplay](assets/gameplay.png)
+![Gameplay](assets/Running Images.png)
 
 **Game-Over rule** — the round ends when both dice show 6:
 
-![Game Over](assets/game_over.png)
-
----
-
-## Project Structure
-.
-├── assets/ # README screenshots
-├── data/ # dataset (images + YOLO labels)
-├── runs/train/dice_detection/ # training outputs + best.pt
-├── gui/ # Tkinter GUI application
-└── README.md
+![Game Over](assets/Ouput Image.png)
 
 ---
 
