@@ -36,12 +36,11 @@ Model: 157 layers · 7.03M parameters · 15.8 GFLOPs.
 ## GUI Demo
 
 **Main scoring screen** — detects both dice and sums their values:
-
-![Gameplay](assets/Running Images.png)
+![Gameplay](assets/Running%20Images.png)
 
 **Game-Over rule** — the round ends when both dice show 6:
 
-![Game Over](assets/Ouput Image.png)
+![Game Over](assets/Ouput%20Image.png)
 
 ---.
 
